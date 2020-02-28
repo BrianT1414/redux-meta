@@ -1,0 +1,14 @@
+npm-debug.log
+node_modules/
+coverage/
+.env.json
+build/
+
+# Vim temporary files
+*~
+*.swp
+*.swo
+.*.sw*
+
+# Sublime
+*.sublime-workspace
